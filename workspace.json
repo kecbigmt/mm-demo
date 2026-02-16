@@ -5,7 +5,7 @@
   "sync": {
     "vcs": "git",
     "enabled": true,
-    "mode": "auto-sync",
+    "mode": "auto-commit",
     "git": {
       "remote": "https://github.com/kecbigmt/mm-demo.git",
       "branch": "main"
