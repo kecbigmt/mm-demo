@@ -1,0 +1,14 @@
+{
+  "schema": "mm.workspace/1",
+  "migration": 3,
+  "timezone": "Asia/Tokyo",
+  "sync": {
+    "vcs": "git",
+    "enabled": true,
+    "mode": "auto-commit",
+    "git": {
+      "remote": "https://github.com/kecbigmt/mm-demo.git",
+      "branch": "main"
+    }
+  }
+}

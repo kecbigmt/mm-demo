@@ -1,0 +1,8 @@
+# mm local state / caches
+.state.json
+.index/
+.tmp/
+
+# OS/editor noise
+.DS_Store
+*.swp
